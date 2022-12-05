@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">211609576402-f9ugjpkpljeton1bre8gr98hfj9icerq.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">211609576402</string>
+    <string name="google_api_key" translatable="false">AIzaSyAV46gwPurVdifKRAEUHI8BgrVzOxz5dfI</string>
+    <string name="google_app_id" translatable="false">1:211609576402:android:095a496777b7a94ce45e0b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAV46gwPurVdifKRAEUHI8BgrVzOxz5dfI</string>
+    <string name="google_storage_bucket" translatable="false">cookandshare-95c10.appspot.com</string>
+    <string name="project_id" translatable="false">cookandshare-95c10</string>
+</resources>
